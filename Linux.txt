@@ -1,0 +1,8 @@
+  1 cat > home_animals
+  2 cat > pack_animals
+  3  cat home_animals pack_animals > friends
+  4  mkdir animals
+  5  mv friends animals/
+  6  history
+
+
